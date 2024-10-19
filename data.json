@@ -1,0 +1,133 @@
+[
+  {
+    "id": "b9ebdb30-d8d7-44b5-af66-7fccaa4dc5f9",
+    "username": "akramcodez",
+    "name": "Akram",
+    "profilePic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBpXzAc1lfOi6rYS9f_Ezk1pC-LJFNS_HIn_LN8--TZSg8AT1T",
+    "content": "Yo Akram here...!",
+    "likes": 1245,
+    "commentCount": 520,
+    "followersCount": 10000,
+    "extra": "I'm SK Akram, a passionate web developer from India. Currently, I'm diving deep into the MERN stack.",
+    "button": "yes"
+  },
+  {
+    "id": "b023a12d-5db0-49b0-993c-e41b2455d4b4",
+    "username": "ash_ketchum",
+    "name": "Ash",
+    "profilePic": "https://pbs.twimg.com/profile_images/1538108303372439552/QRV20CVc_400x400.jpg",
+    "content": "In a Pokémon battle, I shouted, 'I’ll show you the power of friendship!' and Misty said, 'That won’t help you win!'",
+    "likes": 7100,
+    "commentCount": 400,
+    "followersCount": 9000,
+    "button": "no",
+    "extra": "Ash Ketchum, also known as Satoshi in Japan, is the energetic and determined protagonist of the Pokémon series. Hailing from Pallet Town, his dream is to become a Pokémon Master, traveling across regions with his loyal Pikachu and catching new Pokémon. Ash is known for his perseverance, strong bond with his Pokémon, and never-give-up attitude. His journey teaches valuable lessons about friendship, teamwork, and the importance of personal growth through challenges."
+  },
+  {
+    "id": "10cd6a96-a59e-4a00-8107-32fb70b524ef",
+    "username": "son_goku",
+    "name": "Goku",
+    "profilePic": "https://i.pinimg.com/564x/e7/68/46/e76846ec30e1c9a1b804499e2368ac6b.jpg",
+    "content": "Told my opponent, 'You better give it your all or I might take a senzu bean break mid-fight!'",
+    "likes": 5400,
+    "commentCount": 300,
+    "followersCount": 10000,
+    "button": "no",
+    "extra": "Goku is the main protagonist of the Dragon Ball series, known for his cheerful personality, insatiable appetite, and relentless pursuit of strength. As a Saiyan raised on Earth, he defends the planet from powerful foes using abilities like the Kamehameha and Ultra Instinct. Goku's pure-hearted nature and love for challenges often lead him to befriend former enemies. His journey embodies growth, inspiring others to push their limits and become stronger."
+  },
+  {
+    "id": "9b443c77-5959-44e8-83f3-9f8b4fd07504",
+    "username": "ryomen_sukuna",
+    "name": "Sukuna",
+    "profilePic": "https://cdnb.artstation.com/p/assets/images/images/043/777/761/large/rhianna-dennis-sukuna.jpg?1638232100",
+    "content": "Said to a barista, 'If I had a yen for every time someone underestimated me, I’d own this place!'",
+    "likes": 7200,
+    "commentCount": 250,
+    "followersCount": 8000,
+    "button": "no",
+    "extra": "Sukuna, also known as Ryomen Sukuna, is a powerful curse in Jujutsu Kaisen, feared as the - King of Curses. He possesses incredible strength, regenerative abilities, and mastery over cursed techniques. Originally a human sorcerer turned cursed spirit, Sukuna's soul resides within Yuji Itadori, with whom he shares a complex and volatile relationship. Ruthless and cunning, Sukuna’s ultimate goal remains shrouded in mystery, making him a dangerous and unpredictable force."
+  },
+  {
+    "id": "bb61d20e-7ade-49c0-8f68-693afd3b1577",
+    "username": "tanjiro_kamado",
+    "name": "Tanjiro",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGwMvrNaC-jRitFk51-iUVg6ABqKZ3i54ampAL6_Nr0VpitFOmTQRLpXkq3GBv9GIhbs&usqp=CAU",
+    "content": "In a cooking competition, I told a demon chef, 'It’s not just about the taste; it’s about the heart behind every slice!'",
+    "likes": 4000,
+    "commentCount": 180,
+    "followersCount": 5000,
+    "button": "no",
+    "extra": "Tanjiro Kamado is the kind-hearted protagonist of Demon Slayer: Kimetsu no Yaiba, known for his determination and empathy. After his family is slaughtered by demons and his sister Nezuko is turned into one, he becomes a demon slayer to find a cure and avenge his loved ones. Tanjiro wields the Water Breathing technique and later masters the Sun Breathing, showcasing incredible skill and willpower. His compassion for both humans and demons sets him apart, making him a beacon of hope in a world plagued by darkness."
+  },
+  {
+    "id": "eb4b615b-db4e-459b-9a85-353254be515c",
+    "username": "monkey_d._luffy",
+    "name": "Luffy",
+    "profilePic": "https://i.pinimg.com/736x/1e/8b/f3/1e8bf3b2adefdfe76bb5dfe9bafe1ed5.jpg",
+    "content": "I told my crew, 'I can taste the treasure out there!' and Zoro asked, 'If you can taste it, then why can't you smell it?'",
+    "likes": 6200,
+    "commentCount": 220,
+    "followersCount": 6000,
+    "button": "no",
+    "extra": "Monkey D. Luffy is the cheerful and fearless protagonist of One Piece, with a dream of becoming the Pirate King by finding the legendary One Piece treasure. After eating the Gum-Gum Fruit, he gains the power to stretch his body like rubber, making him a formidable fighter with creative combat techniques. As captain of the Straw Hat Pirates, Luffy values freedom and fiercely protects his friends, embodying the spirit of adventure. His unwavering will, joyfulness, and ability to inspire others make him one of the most beloved pirates on the seas."
+  },
+  {
+    "id": "8e9ea832-cd2e-4373-ae05-4ac28da5b2e6",
+    "username": "light_yagami",
+    "name": "Light",
+    "profilePic": "https://images5.alphacoders.com/124/1240410.jpg",
+    "content": "I said, 'If I write my plans in the Death Note, it could become a bestseller!' and Ryuk joked, 'How about 'How to Lose Friends and Influence Nobody'?'",
+    "likes": 9200,
+    "commentCount": 400,
+    "followersCount": 7500,
+    "button": "no",
+    "extra": "Light Yagami is the brilliant but morally complex protagonist of Death Note. After discovering the Death Note, a supernatural notebook that allows him to kill anyone by writing their name, he sets out to create a utopia by eliminating criminals, adopting the alias - Kira Though initially driven by a sense of justice, Light's ambitions evolve into a dangerous obsession with power and control. His battle of wits with the genius detective L creates a gripping psychological conflict, exploring themes of morality, corruption, and the cost of absolute power."
+  },
+  {
+    "id": "d3939505-7fa8-453c-9b22-0f0873ea7383",
+    "username": "doraemon__",
+    "name": "Doraemon",
+    "profilePic": "https://i.pinimg.com/736x/5f/d5/d4/5fd5d42efc0c9bf7735966598a8f205f.jpg",
+    "content": "I told Nobita, 'With my Anywhere Door, we could skip class anytime!' and he asked, 'But where would we go?'",
+    "likes": 8500,
+    "commentCount": 320,
+    "followersCount": 12000,
+    "button": "no",
+    "extra": "Doraemon is a robotic cat from the 22nd century, sent back in time to help a boy named Nobita Nobi navigate life's challenges. Known for his magical “4D Pocket,” Doraemon carries futuristic gadgets like the -Anywhere Door and Take-Copter to solve problems. Though often frustrated by Nobita’s laziness, Doraemon deeply cares for him and aims to improve his future. With its blend of humor, friendship, and life lessons, Doraemon has become a beloved icon for audiences worldwide."
+  },
+  {
+    "id": "a251985c-28d6-4312-9e63-72d45c720cd1",
+    "username": "shinchan_nohara",
+    "name": "Shinchan",
+    "profilePic": "https://i.pinimg.com/474x/b2/2d/f2/b22df2808098dc432566e625231318dc.jpg",
+    "content": "When the teacher scolded me for my dance moves, I said, 'I thought we were having a groove lesson!'",
+    "likes": 4900,
+    "commentCount": 270,
+    "followersCount": 4500,
+    "button": "no",
+    "extra": "Shinchan, or Shinnosuke Nohara, is the mischievous and playful protagonist of Crayon Shin-chan. Known for his cheeky humor, love for snacks, and silly dance moves, Shinchan often causes chaos for his parents, teachers, and friends. Despite his mischief, he has a big heart and occasionally surprises everyone with moments of kindness and wisdom. The show captures everyday adventures through his innocent, hilarious perspective, making it a beloved comedy across all age groups."
+  },
+  {
+    "id": "ba862e1d-d731-456a-a3bf-1fbb36647ba1",
+    "username": "naruto_uzumaki",
+    "name": "Naruto",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTItDiEuQnbytdBpV8S5peAazmcwBMdcyTyQ&s",
+    "content": "Bragging to Sakura, I said, 'I can be anything I want!' and she laughed, 'Even a better student?'",
+    "likes": 8800,
+    "commentCount": 360,
+    "followersCount": 9500,
+    "button": "no",
+    "extra": "Naruto Uzumaki is the spirited protagonist of Naruto, known for his dream of becoming the Hokage and earning the respect of his village. Once shunned for being the host of the Nine-Tails fox, Naruto overcomes loneliness with his determination and unwavering belief in himself. He excels as a ninja through sheer hard work, mastering powerful techniques like the Rasengan and Sage Mode. Naruto's journey emphasizes themes of perseverance, friendship, and the importance of never giving up on one's dreams."
+  },
+  {
+    "id": "9d7b71b0-7a10-4521-ab7d-aded5cb35485",
+    "username": "saitama_opm",
+    "name": "Saitama",
+    "profilePic": "https://avatarfiles.alphacoders.com/336/336672.png",
+    "likes": 9900,
+    "commentCount": 500,
+    "followersCount": 11000,
+    "button": "no",
+    "extra": "Saitama, the protagonist of One Punch Man, is a hero who can defeat any opponent with a single punch, leaving him bored and unfulfilled. Once an ordinary man, he trained so intensely that he became bald and gained unmatched strength. Despite his overwhelming power, Saitama remains humble, struggling with a lack of recognition and the monotony of easy victories. His story humorously explores the balance between power, purpose, and the search for meaning in life."
+  }
+]

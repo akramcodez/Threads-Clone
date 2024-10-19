@@ -1,0 +1,147 @@
+.new-window {
+    position: fixed;
+    top: 47%; 
+    left: 48%;
+    transform: translate(-50%, -50%);
+    z-index: 1000; 
+    height: 18rem;
+    width: 40rem;
+    background-color: #1c1b1a;
+    border: 1px solid rgba(255, 255, 255, 0.167);
+    border-radius: 1rem; 
+    display: flex;
+    flex-direction: column;
+}
+
+.back{
+    height: 3.5rem;
+    border-bottom:  1px solid rgba(255, 255, 255, 0.167);
+    display: flex;
+    align-items: center;
+}
+
+.back span {
+    margin-left: 30%;
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.back a{
+    margin-left: 3%;
+    font-weight: 500;
+}
+
+.write-post{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+.img-container{
+    width: 15%;
+    height: 79%;
+    border-bottom :  1px solid rgba(255, 255, 255, 0.167);
+}
+
+.write-post-img{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-left: 20%;
+    margin-right: 5px;
+}
+
+.write-post-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.write-post-info{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#username{
+    margin-top: 30px;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+#textarea-newthread{
+    margin-top: 5px;
+    font-size: 1rem;
+    width: 90%;
+    height: 60%;
+    background: transparent;
+    border: none;
+    resize: none;
+    outline: none;
+    color: white;
+}
+
+.post-thread{
+    margin-top: 2.4rem;
+    height: 3rem;
+    border-top:  1px solid rgba(255, 255, 255, 0.167);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.post-thread button {
+    opacity: 0.7;
+    margin-left: 0;
+    position: absolute;
+    left: 5px;
+}
+
+#post-btn{
+    opacity: 1;
+    margin-right: 10px;
+    font-size: 1rem;
+    border:  1px solid rgba(255, 255, 255, 0.452);
+    transition: background-color 0.3s ease;
+}
+
+#post-btn:hover{
+    background-color: gray;
+}
+
+.extra-things{
+    position: absolute;
+    right: 5px;
+}
+
+.in-new-page{
+    border:  solid rgba(255, 255, 255, 0.452);
+    font-size: small;
+}
+
+.in-new-page:hover{
+    background-color: rgba(21, 255, 0, 0.253);
+}
+
+@media (max-width: 840px) {
+
+    .new-window{
+        width: 30rem;
+        margin-left: 6%;
+    }
+
+    .write-post-info{
+        padding-left: 5;
+    }
+    .back span {
+        margin-left: 25%;;
+    }
+    .post-thread{
+        padding-left: 0;
+    }
+    .img-container{
+      padding-right: 6px;
+    }
+}
