@@ -38,22 +38,18 @@ if (isIdMissing) {
 }
 
 app.get("/threads.net", (req, res) => {
-  console.log("Rendering home page with data.");
   res.render("home.ejs", { data });
 });
 
 app.get("/threads.net/new", (req, res) => {
-  console.log("Creating new thread");
   res.render("new.ejs", { data });
 });
 
 app.get("/threads.net/search", (req, res) => {
-  console.log("Navigating to the search page...");
   res.render("search.ejs");  
 });
 
 app.get("/threads.net/profile", (req, res) => {
-  console.log("Navigating to the profile page...");
   res.render("profile.ejs");  
 });
 
@@ -66,7 +62,6 @@ app.get("/threads.net/:id", (req, res) => {
     return res.status(404).send("Post not found");
   }
 
-  console.log(`Rendering post with ID: ${id}`);
   res.render("show.ejs", { post });
 });
 
@@ -91,7 +86,6 @@ app.post("/threads.net/new", (req, res) => {
   data.unshift(newPost);
   fs.writeFileSync("data.json", JSON.stringify(data, null, 2));
 
-  console.log(`New post added by: ${newPost.name}`);
   res.redirect("/threads.net");
 });
 
@@ -109,7 +103,6 @@ app.patch("/threads.net/:id", (req, res) => {
   data[postIndex].content = content;
 
   fs.writeFileSync("data.json", JSON.stringify(data, null, 2));
-  console.log("Post updated:", ` by ${data[postIndex].name}`);
 
   res.redirect(`/threads.net/${id}`); 
 });
@@ -123,7 +116,6 @@ app.get("/threads.net/:id/edit", (req, res) => {
         return res.status(404).send("Post not found");
     }
 
-    console.log(post); 
     res.render("edit.ejs", { post, data }); 
 });
 
