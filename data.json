@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "id": "b9ebdb30-d8d7-44b5-af66-7fccaa4dc5f9",
     "username": "akramcodez",
     "name": "Akram",
@@ -9,13 +10,28 @@
     "commentCount": 520,
     "followersCount": 10000,
     "extra": "I'm SK Akram, a passionate web developer from India. Currently, I'm diving deep into the MERN stack.",
+=======
+    "id": "90779631-5c13-4340-9059-839f9a279904",
+    "username": "akramcodez",
+    "name": "Akram",
+    "profilePic": "https://upload_pic",
+    "content": "Yo! Akram here...",
+    "likes": 1369,
+    "commentCount": 523,
+    "followersCount": 10000,
+    "extra": "I'm SK Akram, a passionate web developer from India. Currently, I'm diving deep into the MERN stack..",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "button": "yes"
   },
   {
     "id": "b023a12d-5db0-49b0-993c-e41b2455d4b4",
     "username": "ash_ketchum",
     "name": "Ash",
+<<<<<<< HEAD
     "profilePic": "https://pbs.twimg.com/profile_images/1538108303372439552/QRV20CVc_400x400.jpg",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "In a Pokémon battle, I shouted, 'I’ll show you the power of friendship!' and Misty said, 'That won’t help you win!'",
     "likes": 7100,
     "commentCount": 400,
@@ -27,7 +43,11 @@
     "id": "10cd6a96-a59e-4a00-8107-32fb70b524ef",
     "username": "son_goku",
     "name": "Goku",
+<<<<<<< HEAD
     "profilePic": "https://i.pinimg.com/564x/e7/68/46/e76846ec30e1c9a1b804499e2368ac6b.jpg",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "Told my opponent, 'You better give it your all or I might take a senzu bean break mid-fight!'",
     "likes": 5400,
     "commentCount": 300,
@@ -39,7 +59,11 @@
     "id": "9b443c77-5959-44e8-83f3-9f8b4fd07504",
     "username": "ryomen_sukuna",
     "name": "Sukuna",
+<<<<<<< HEAD
     "profilePic": "https://cdnb.artstation.com/p/assets/images/images/043/777/761/large/rhianna-dennis-sukuna.jpg?1638232100",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "Said to a barista, 'If I had a yen for every time someone underestimated me, I’d own this place!'",
     "likes": 7200,
     "commentCount": 250,
@@ -51,7 +75,11 @@
     "id": "bb61d20e-7ade-49c0-8f68-693afd3b1577",
     "username": "tanjiro_kamado",
     "name": "Tanjiro",
+<<<<<<< HEAD
     "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGwMvrNaC-jRitFk51-iUVg6ABqKZ3i54ampAL6_Nr0VpitFOmTQRLpXkq3GBv9GIhbs&usqp=CAU",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "In a cooking competition, I told a demon chef, 'It’s not just about the taste; it’s about the heart behind every slice!'",
     "likes": 4000,
     "commentCount": 180,
@@ -63,7 +91,11 @@
     "id": "eb4b615b-db4e-459b-9a85-353254be515c",
     "username": "monkey_d._luffy",
     "name": "Luffy",
+<<<<<<< HEAD
     "profilePic": "https://i.pinimg.com/736x/1e/8b/f3/1e8bf3b2adefdfe76bb5dfe9bafe1ed5.jpg",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "I told my crew, 'I can taste the treasure out there!' and Zoro asked, 'If you can taste it, then why can't you smell it?'",
     "likes": 6200,
     "commentCount": 220,
@@ -75,7 +107,11 @@
     "id": "8e9ea832-cd2e-4373-ae05-4ac28da5b2e6",
     "username": "light_yagami",
     "name": "Light",
+<<<<<<< HEAD
     "profilePic": "https://images5.alphacoders.com/124/1240410.jpg",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "I said, 'If I write my plans in the Death Note, it could become a bestseller!' and Ryuk joked, 'How about 'How to Lose Friends and Influence Nobody'?'",
     "likes": 9200,
     "commentCount": 400,
@@ -87,7 +123,11 @@
     "id": "d3939505-7fa8-453c-9b22-0f0873ea7383",
     "username": "doraemon__",
     "name": "Doraemon",
+<<<<<<< HEAD
     "profilePic": "https://i.pinimg.com/736x/5f/d5/d4/5fd5d42efc0c9bf7735966598a8f205f.jpg",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "I told Nobita, 'With my Anywhere Door, we could skip class anytime!' and he asked, 'But where would we go?'",
     "likes": 8500,
     "commentCount": 320,
@@ -99,7 +139,11 @@
     "id": "a251985c-28d6-4312-9e63-72d45c720cd1",
     "username": "shinchan_nohara",
     "name": "Shinchan",
+<<<<<<< HEAD
     "profilePic": "https://i.pinimg.com/474x/b2/2d/f2/b22df2808098dc432566e625231318dc.jpg",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "When the teacher scolded me for my dance moves, I said, 'I thought we were having a groove lesson!'",
     "likes": 4900,
     "commentCount": 270,
@@ -111,7 +155,11 @@
     "id": "ba862e1d-d731-456a-a3bf-1fbb36647ba1",
     "username": "naruto_uzumaki",
     "name": "Naruto",
+<<<<<<< HEAD
     "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTItDiEuQnbytdBpV8S5peAazmcwBMdcyTyQ&s",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "content": "Bragging to Sakura, I said, 'I can be anything I want!' and she laughed, 'Even a better student?'",
     "likes": 8800,
     "commentCount": 360,
@@ -123,11 +171,19 @@
     "id": "9d7b71b0-7a10-4521-ab7d-aded5cb35485",
     "username": "saitama_opm",
     "name": "Saitama",
+<<<<<<< HEAD
     "profilePic": "https://avatarfiles.alphacoders.com/336/336672.png",
+=======
+    "profilePic": "https://upload_pic",
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
     "likes": 9900,
     "commentCount": 500,
     "followersCount": 11000,
     "button": "no",
     "extra": "Saitama, the protagonist of One Punch Man, is a hero who can defeat any opponent with a single punch, leaving him bored and unfulfilled. Once an ordinary man, he trained so intensely that he became bald and gained unmatched strength. Despite his overwhelming power, Saitama remains humble, struggling with a lack of recognition and the monotony of easy victories. His story humorously explores the balance between power, purpose, and the search for meaning in life."
   }
+<<<<<<< HEAD
 ]
+=======
+]
+>>>>>>> cf911417aa9dcfcd7047d9df5327903a014fa6a8
