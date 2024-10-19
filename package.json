@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "build": "echo 'Building project...'",
+    "build": "react-scripts build'",
     "postinstall": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
