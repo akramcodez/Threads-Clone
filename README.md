@@ -10,6 +10,12 @@ Showcasing user profiles, likes, comments, and more.
 
 ---
 
+### ❌ Contributions Not Allowed
+
+This is a personal project by **SK Akram**, and external contributions are not accepted at this time. For any feedback or inquiries, feel free to reach out via the contact details provided below.
+
+---
+
 ## 🌟 Features  
 
 - **User Posts**: Users can create new threads, edit existing ones, and delete posts.  
