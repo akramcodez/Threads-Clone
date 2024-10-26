@@ -71,7 +71,7 @@ If the application does not behave as expected:
 
 ## ⚙️ Installation  
 
-Follow these steps to set up the project locally:  
+Follow these steps to set up the project locally:
 
 ```bash
 # Step 1: Clone the repository
