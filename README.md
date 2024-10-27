@@ -5,8 +5,9 @@ A dynamic web application that simulates a social thread platform, allowing user
 ## 🎉 Welcome to Threads Clone
 
 A social media platform for sharing thoughts and engaging in discussions! This web application enables users to explore threads and contribute their unique posts.  
-
 Showcasing user profiles, likes, comments, and more.
+
+Output - https://threads-clone-akram.onrender.com/threads.net
 
 ---
 
