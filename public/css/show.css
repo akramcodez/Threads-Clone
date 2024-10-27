@@ -1,0 +1,63 @@
+.show-main-content{
+    margin-top: 7px;
+}
+
+.show-content{
+    border: none;
+    margin-top: 10px;
+}
+
+.show-profile-img{
+    margin-top: 10px;
+}
+
+.goback{
+    margin-left: 26%;
+    background-color: black;
+}
+
+.goback:hover{
+    text-decoration: underline;
+}
+.specific-post-info {
+    margin-left: 10%;
+    width: 80%;
+    opacity: 0;
+    line-height: 1.5rem;
+    height: 0;
+    overflow: hidden;
+    transition: opacity 1.2s ease, height 1.2s ease;
+    position: relative; 
+}
+
+.specific-post-info::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.167);
+    transition: width 1.5s linear; 
+}
+
+.specific-post-info p {
+    padding-top: 1rem;
+    font-size: 1rem;
+    opacity: 0;
+    transition: opacity 1.5s ease;
+}
+
+.show-main-content:hover .specific-post-info {
+    opacity: 1;
+    height: auto;
+}
+
+.show-main-content:hover .specific-post-info::before {
+    width: 100%; 
+}
+
+.show-main-content:hover .specific-post-info p {
+    opacity: 0.8;
+}
+
