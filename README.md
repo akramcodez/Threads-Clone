@@ -9,6 +9,9 @@ Showcasing user profiles, likes, comments, and more.
 
 Output - https://threads-clone-akram.onrender.com/threads.net
 
+:: Notice: This application is optimized for desktop use only. For the best experience, please access it via a desktop or laptop browser. Mobile devices are not supported.
+
+
 ---
 
 ## 🌟 Features  
